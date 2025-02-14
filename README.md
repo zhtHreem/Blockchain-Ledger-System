@@ -1,7 +1,5 @@
  # Blockchain Ledger System
 
-A simple command-line blockchain implementation in Go that demonstrates the core concepts of blockchain technology through a transaction ledger system.
-
 ## Project Overview
 
 The Blockchain Ledger System allows users to create and manage a secure chain of transaction records. Each block is cryptographically linked, ensuring data integrity and immutability. The system uses SHA-256 hashing for security and supports basic consensus for validating the chain.
