@@ -1,0 +1,20 @@
+{
+  "blocks": [
+    {
+      "transactions": [
+        "Alice-\u003eBob:50.00"
+      ],
+      "prevHash": "",
+      "currentHash": "235601cd3f364441ffb43e5de6605d80d683fbef362120df5944d3a10517fc28",
+      "timestamp": 1739538776
+    },
+    {
+      "transactions": [
+        "Bob-\u003eCharlie:25.00"
+      ],
+      "prevHash": "235601cd3f364441ffb43e5de6605d80d683fbef362120df5944d3a10517fc28",
+      "currentHash": "cc81fc4da0009fd566ad11fce0a50f17e02272f6baa0de59f8f98a6298b67891",
+      "timestamp": 1739538776
+    }
+  ]
+}
